@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kashish</h1>
-<h3 align="center">A AIML student at RVCE</h3>
+<h1 align="left">Hi 👋, I'm Kashish</h1>
+<h3 align="left">I am a AIML student at RVCE</h3>
 
 - 🌱 I’m currently learning **GenAI**
 
